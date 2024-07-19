@@ -5,12 +5,12 @@ on:
   push:
     branches: [ main ]
 
-
 env:
   ALIYUN_REGISTRY: "${{ secrets.ALIYUN_REGISTRY }}"
   ALIYUN_NAME_SPACE: "${{ secrets.ALIYUN_NAME_SPACE }}"
   ALIYUN_REGISTRY_USER: "${{ secrets.ALIYUN_REGISTRY_USER }}"
   ALIYUN_REGISTRY_PASSWORD: "${{ secrets.ALIYUN_REGISTRY_PASSWORD }}"
+  WEBHOOK_URL: "${{ secrets.WEBHOOK_URL }}"
 
 jobs:
 
@@ -29,14 +29,10 @@ jobs:
     - name: Maximize build space
       uses: easimon/maximize-build-space@master
       with:
-
         root-reserve-mb: 2048
         swap-size-mb: 128
         remove-dotnet: 'true'
         remove-haskell: 'true'
-        # 如果空间还是不够用，可以把以下开启，清理出更多空间
-        # remove-android: 'true'
-        # remove-codeql: 'true'
         build-mount-path: '/var/lib/docker/'
 
     - name: Restart docker
@@ -98,7 +94,6 @@ jobs:
             fi       
         done < images.txt
         
-        
         while IFS= read -r line || [ -n "$line" ]; do
             # 忽略空行与注释
             [[ -z "$line" ]] && continue
@@ -143,6 +138,11 @@ jobs:
             docker tag $image $new_image
             echo "docker push $new_image"
             docker push $new_image
+            
+            # 发送 webhook 消息
+            echo "Sending webhook message for $new_image"
+            curl -X POST -H "Content-Type: application/json" -d "{\"msgtype\": \"text\", \"text\":{\"content\":\"镜像推送成功: $new_image\"}}" $WEBHOOK_URL
+            
             echo "开始清理磁盘空间"
             echo "=============================================================================="
             df -hT
