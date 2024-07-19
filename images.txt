@@ -23,4 +23,5 @@
 
 # nginx
 #nginx
-mysql
+#mysql
+netoools
