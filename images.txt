@@ -24,4 +24,8 @@
 # nginx
 #nginx
 #mysql
-quay.io/prometheus-operator/prometheus-operator:v0.67.1
+#quay.io/prometheus-operator/prometheus-operator:v0.67.1
+
+#metallb
+quay.io/metallb/controller:v0.14.8
+quay.io/metallb/speaker:v0.14.8
