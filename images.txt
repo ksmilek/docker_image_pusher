@@ -36,6 +36,6 @@
 
 #logoperator
 #quay.io/opstree/logging-operator:v0.4.0
-https://hub.docker.com/r/jolmomar/ansible_runner_service
+jolmomar/ansible_runner_service
 
 
