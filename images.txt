@@ -36,6 +36,13 @@
 
 #logoperator
 #quay.io/opstree/logging-operator:v0.4.0
-jolmomar/ansible_runner_service
+#jolmomar/ansible_runner_service
+redis:7.0-bullseye
+postgres:16.3-bullseye
+jumpserver/core:v4.0.1-ce
+jumpserver/koko:v4.0.1-ce
+jumpserver/lion:v4.0.1-ce
+jumpserver/chen:v4.0.1-ce
+jumpserver/web:v4.0.1-ce
 
 
