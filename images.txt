@@ -7,7 +7,7 @@
 
 # ceph image
 #gcr.io/k8s-staging-sig-storage/objectstorage-sidecar/objectstorage-sidecar:v20230130-v0.1.0-24-gc0cf995
-#quay.io/ceph/ceph:v18.2.2
+quay.io/ceph/ceph:v18.2.4
 #quay.io/ceph/cosi:v0.1.1
 #quay.io/cephcsi/cephcsi:v3.11.0
 #quay.io/csiaddons/k8s-sidecar:v0.8.0
@@ -44,6 +44,6 @@
 #jumpserver/lion:v4.0.1-ce
 #jumpserver/chen:v4.0.1-ce
 #jumpserver/web:v4.0.1-ce
-jenkins/inbound-agent:4.10-2
+#jenkins/inbound-agent:4.10-2
 
 
