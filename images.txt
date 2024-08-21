@@ -47,5 +47,6 @@ registry:2
 #jumpserver/web:v4.0.1-ce
 #jenkins/inbound-agent:4.10-2
 
-coredns/coredns:1.9.3
-calico/kube-controllers:v3.27.3
+#coredns/coredns:1.9.3
+#calico/kube-controllers:v3.27.3
+busybox:latest
