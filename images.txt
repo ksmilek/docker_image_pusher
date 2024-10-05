@@ -17,7 +17,7 @@
 #registry.k8s.io/sig-storage/csi-resizer:v1.10.1
 #registry.k8s.io/sig-storage/csi-snapshotter:v7.0.2
 #rook/ceph:v1.14.8
-registry:2
+#registry:2
 
 # metrics-server 
 #registry.k8s.io/metrics-server/metrics-server:v0.7.1
@@ -28,8 +28,8 @@ registry:2
 #quay.io/prometheus-operator/prometheus-operator:v0.67.1
 
 #metallb
-quay.io/metallb/controller:v0.14.8
-quay.io/metallb/speaker:v0.14.8
+#quay.io/metallb/controller:v0.14.8
+#quay.io/metallb/speaker:v0.14.8
 quay.io/frrouting/frr
 
 #nginx-ingress
