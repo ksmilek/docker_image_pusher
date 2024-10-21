@@ -30,7 +30,7 @@
 #metallb
 #quay.io/metallb/controller:v0.14.8
 #quay.io/metallb/speaker:v0.14.8
-quay.io/frrouting/frr
+#quay.io/frrouting/frr
 
 #nginx-ingress
 #registry.k8s.io/ingress-nginx/controller:v1.11.1@sha256:e6439a12b52076965928e83b7b56aae6731231677b01e81818bce7fa5c60161a
@@ -51,3 +51,4 @@ quay.io/frrouting/frr
 #coredns/coredns:1.9.3
 #calico/kube-controllers:v3.27.3
 #busybox:latest
+docker pull kubesphere/fluent-bit:v2.0.6
