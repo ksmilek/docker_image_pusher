@@ -51,4 +51,4 @@
 #coredns/coredns:1.9.3
 #calico/kube-controllers:v3.27.3
 #busybox:latest
-docker pull kubesphere/fluent-bit:v2.0.6
+kubesphere/fluent-bit:v2.0.6
