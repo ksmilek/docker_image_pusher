@@ -63,5 +63,5 @@
 #busybox:latest
 #kubesphere/fluent-bit:v2.0.6
 #ubuntu
-httpd
-nettools
+#httpd
+nettool
