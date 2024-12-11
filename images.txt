@@ -64,4 +64,5 @@
 #kubesphere/fluent-bit:v2.0.6
 #ubuntu
 #httpd
-travelping/nettools
+#travelping/nettools
+centos:7
