@@ -65,4 +65,5 @@
 #ubuntu
 #httpd
 #travelping/nettools
-centos:7
+#centos:7
+haproxy
