@@ -66,4 +66,13 @@
 #httpd
 #travelping/nettools
 #centos:7
-haproxy
+#haproxy
+sealos run registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.29.9
+registry.cn-shanghai.aliyuncs.com/labring/calico:v3.28.1 
+registry.cn-shanghai.aliyuncs.com/labring/nerdctl:v1.7.7 
+registry.cn-shanghai.aliyuncs.com/labring/calico:v3.28.1 
+registry.cn-shanghai.aliyuncs.com/labring/etcdctl:v3.5.6 
+registry.cn-shanghai.aliyuncs.com/labring/helm:v3.16.2 
+registry.cn-shanghai.aliyuncs.com/labring/metrics-server:v0.7.1 
+registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.11.3 
+registry.cn-shanghai.aliyuncs.com/labring/openebs:v3.10.0 
