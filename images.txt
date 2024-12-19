@@ -1,4 +1,4 @@
-nginx
-
+#nginx
+registry.cn-shanghai.aliyuncs.com/labring/nerdctl:v1.7.7
 
 
