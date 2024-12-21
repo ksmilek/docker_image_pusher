@@ -1,5 +1,6 @@
 #nginx
 #registry.cn-shanghai.aliyuncs.com/labring/nerdctl:v1.7.7
 #registry.cn-shanghai.aliyuncs.com/labring/calicoctl:v3.28.0
-registry.cn-shanghai.aliyuncs.com/labring/k9s:v0.27.2
+#registry.cn-shanghai.aliyuncs.com/labring/k9s:v0.27.2
+registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.27.16
 
