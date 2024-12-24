@@ -9,5 +9,10 @@
 #registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.27.7 
 #registry.cn-shanghai.aliyuncs.com/labring/helm:v3.9.4 
 #registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.13.4
-registry.k8s.io/metrics-server/metrics-server:v0.6.3
+#registry.k8s.io/metrics-server/metrics-server:v0.6.3
+docker.io/calico/cni:v3.29.1
+docker.io/calico/cni:v3.29.1
+docker.io/calico/node:v3.29.1
+docker.io/calico/node:v3.29.1
+docker.io/calico/kube-controllers:v3.29.1
 
