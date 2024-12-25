@@ -1,18 +1,3 @@
-#nginx
-#registry.cn-shanghai.aliyuncs.com/labring/nerdctl:v1.7.7
-#registry.cn-shanghai.aliyuncs.com/labring/calicoctl:v3.28.0
-#registry.cn-shanghai.aliyuncs.com/labring/k9s:v0.27.2
-#registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.27.16
-#registry.cn-shanghai.aliyuncs.com/labring/calico:v3.24.6
-#registry.cn-shanghai.aliyuncs.com/labring/ingress-nginx:v1.9.4
-#registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.16.1
-#registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.27.7 
-#registry.cn-shanghai.aliyuncs.com/labring/helm:v3.9.4 
-#registry.cn-shanghai.aliyuncs.com/labring/cilium:v1.13.4
-#registry.k8s.io/metrics-server/metrics-server:v0.6.3
-docker.io/calico/cni:v3.29.1
-docker.io/calico/cni:v3.29.1
-docker.io/calico/node:v3.29.1
-docker.io/calico/node:v3.29.1
-docker.io/calico/kube-controllers:v3.29.1
+rstry.k8s.o/nrss-nnx/controllrv1.12.0-bt.0@sh2569724476b928967173d501040631b23b07f470739998034b1208db5f234d5
+rstry.k8s.o/nrss-nnx/kub-wbhook-crtnv1.4.4@sh2569f03b343cbfbb26d10314046b2c513080c3d69d526ff8063d2b37b9fd3f
 
