@@ -1,3 +1,3 @@
-rstry.k8s.o/nrss-nnx/controllrv1.12.0-bt.0@sh2569724476b928967173d501040631b23b07f470739998034b1208db5f234d5
-rstry.k8s.o/nrss-nnx/kub-wbhook-crtnv1.4.4@sh2569f03b343cbfbb26d10314046b2c513080c3d69d526ff8063d2b37b9fd3f
+rstry.k8s.o/nrss-nnx/controllrv1.12.0-bt.0
+rstry.k8s.o/nrss-nnx/kub-wbhook-crtnv1.4.4
 
