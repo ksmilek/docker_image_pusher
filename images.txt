@@ -67,5 +67,4 @@
 #travelping/nettools
 #centos:7
 #haproxy
-goharbor/registry-photon:v2.0.0
-goharbor/harbor-registryctl:v2.0.0
+busybox:latest
