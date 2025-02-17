@@ -67,4 +67,5 @@
 #travelping/nettools
 #centos:7
 #haproxy
-ghcr.io/open-webui/open-webui:main
+goharbor/registry-photon:v2.0.0
+goharbor/harbor-registryctl:v2.0.0
