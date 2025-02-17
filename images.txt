@@ -67,4 +67,4 @@
 #travelping/nettools
 #centos:7
 #haproxy
-busybox:latest
+goharbor/harbor-db:v2.0.0
