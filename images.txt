@@ -67,4 +67,4 @@
 #travelping/nettools
 #centos:7
 #haproxy
-ghcr.io/prometheus-operator/prometheus-config-reloader:v0.78.2ku
+ghcr.io/prometheus-operator/prometheus-config-reloader:v0.78.2
