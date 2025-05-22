@@ -1,1 +1,1 @@
-calico/node:v3.16.3
+nacos/nacos-server:latest
