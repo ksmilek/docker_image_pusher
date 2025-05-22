@@ -1,3 +1,1 @@
-goharbor/registry-photon:v2.0.0
-goharbor/harbor-registryctl:v2.0.0
-goharbor/harbor-db:v2.0.0
+goharbor/harbor-jobservice:v2.0.0
