@@ -1,1 +1,1 @@
-kiwigrid/k8s-sidecar:1.28.0
+goharbor/harbor-portal:v2.0.0
