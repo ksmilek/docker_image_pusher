@@ -1,1 +1,1 @@
-kubesphere/nginx-ingress-controller:v1.4.0
+calico/kube-controllers:v3.16.3
