@@ -1,1 +1,1 @@
-kubesphere/fluent-bit:v1.8.11
+docker.io/frezes/cadvisor:v0.53.1
