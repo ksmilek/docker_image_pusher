@@ -1,1 +1,13 @@
-docker.io/frezes/cadvisor:v0.53.1
+pingcap/pd:latest
+pingcap/pd:latest
+pingcap/pd:latest
+pingcap/tikv:latest
+pingcap/tikv:latest
+pingcap/tikv:latest
+pingcap/tidb:latest
+pingcap/tispark:v2.1.1
+pingcap/tispark:v2.1.1
+pingcap/tidb-vision:latest
+prom/pushgateway:v0.3.1
+prom/prometheus:v2.2.1
+grafana/grafana:6.0.1
