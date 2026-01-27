@@ -1,1 +1,1 @@
-polinux/stress
+containerstack/cpustress
