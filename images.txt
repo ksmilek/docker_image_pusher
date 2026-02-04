@@ -1,1 +1,1 @@
-containerstack/cpustress
+openclaw/openclaw:latest
