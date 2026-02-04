@@ -1,1 +1,1 @@
-openclaw/openclaw:latest
+node:22-bookworm
