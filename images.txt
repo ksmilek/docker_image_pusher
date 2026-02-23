@@ -1,1 +1,1 @@
-node:22-bookworm
+ghcr.io/nokia/srlinux
