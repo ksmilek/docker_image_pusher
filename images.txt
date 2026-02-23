@@ -1,1 +1,1 @@
-ceos:4.32.0F
+docker.io/library/ceos:4.32.0F
