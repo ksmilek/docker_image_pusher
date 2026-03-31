@@ -1,1 +1,6 @@
-docker.io/library/node:22-slim   
+firecrawl-api
+firecrawl-playwright-service
+firecrawl-nuq-postgres
+rabbitmq
+firecrawl-nuq-postgres-1
+irecrawl-api-1
