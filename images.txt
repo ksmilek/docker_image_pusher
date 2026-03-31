@@ -1,1 +1,5 @@
-nettool
+docker.io/library/postgres:17
+docker.io/library/node:18-slim
+golang:1.24
+python
+redis:alpine
