@@ -1,6 +1,5 @@
-firecrawl-api
-firecrawl-playwright-service
-firecrawl-nuq-postgres
-rabbitmq
-firecrawl-nuq-postgres-1
-irecrawl-api-1
+redis:7.0-alpine
+paradedb/paradedb:v0.22.2-pg17
+wechatopenai/weknora-docreader:latest
+wechatopenai/weknora-app:latest
+wechatopenai/weknora-ui:latest
