@@ -1,1 +1,5 @@
-neo4j:2025.10.1
+docker.io/library/python:3.10.18-bookworm
+docker.io/library/node:24-alpine
+docker.io/library/nginx:stable-alpine
+docker.io/library/debian:12.12-slim 
+docker.io/library/golang:1.24-bookworm
