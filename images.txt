@@ -1,5 +1,2 @@
-docker.io/library/python:3.10.18-bookworm
-docker.io/library/node:24-alpine
-docker.io/library/nginx:stable-alpine
-docker.io/library/debian:12.12-slim 
-docker.io/library/golang:1.24-bookworm
+registry.k8s.io/ingress-nginx/controller:v1.15.1@sha256:594ceea76b01c592858f803f9ff4d2cb40542cae2060410b2c95f75907d659e1
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.9@sha256:01038e7de14b78d702d2849c3aad72fd25903c4765af63cf16aa3398f5d5f2dd
