@@ -1,3 +1,1 @@
-quay.io/fluentd_elasticsearch/elasticsearch:v7.10.2
-quay.io/fluentd_elasticsearch/fluentd:v3.1.0
-docker.elastic.co/kibana/kibana-oss:7.10.2
+alpine:3.6
