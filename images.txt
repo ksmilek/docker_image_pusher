@@ -1,1 +1,1 @@
- mineru:latest
+docker.io/mathworks/matlab:R2020b
