@@ -1,1 +1,1 @@
-docker.io/mathworks/matlab:R2020b
+timberio/vector:0.44.0-distroless-libc
