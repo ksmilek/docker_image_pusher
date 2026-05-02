@@ -1,1 +1,1 @@
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.8.2
+ghcr.io/jkroepke/kube-webhook-certgen:1.8.2
