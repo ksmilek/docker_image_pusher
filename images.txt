@@ -1,2 +1,1 @@
-quay.io/kiwigrid/k8s-sidecar:2.7.1
-docker.io/library/busybox:1.37.0
+timberio/vector:0.44.0-distroless-libc
