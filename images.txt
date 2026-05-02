@@ -1,1 +1,2 @@
-ghcr.io/jkroepke/kube-webhook-certgen:1.8.2
+quay.io/kiwigrid/k8s-sidecar:2.7.1
+docker.io/library/busybox:1.37.0
